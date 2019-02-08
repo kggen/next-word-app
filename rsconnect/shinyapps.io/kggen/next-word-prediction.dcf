@@ -1,0 +1,12 @@
+name: next-word-prediction
+title: next-word-prediction
+username:
+account: kggen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 448756
+bundleId: 1588079
+url: https://kggen.shinyapps.io/next-word-prediction/
+when: 1537102382.51536
+asMultiple: FALSE
+asStatic: FALSE
